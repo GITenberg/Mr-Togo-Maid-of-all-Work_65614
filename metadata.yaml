@@ -1,5 +1,8 @@
 _repo: Mr-Togo-Maid-of-all-Work_65614
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65614-h/images/cover.jpg
 creator:
   author:
     agent_name: Irwin, Wallace
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1567
     wikipedia: https://en.wikipedia.org/wiki/Wallace_Irwin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65614#Mr-Togo-Maid-of-all-Work
 gutenberg_issued: '2021-06-14'
 gutenberg_type: Text
 identifiers:
